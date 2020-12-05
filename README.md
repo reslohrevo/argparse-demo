@@ -10,5 +10,5 @@ Package the code:
 
 Run the code:
 
-    java -jar target/argparse-demo-0.0.1-SNAPSHOT.jar /
+    java -jar target/argparse-demo-0.0.1-SNAPSHOT.jar \
         --verbose
